@@ -1,0 +1,9 @@
+{
+  "name": "sysblot-projects-manager",
+  "version": "1.0.0",
+  "description": "A project manager for managing all the projects in sysblot organizatio",
+  "main": "server.js",
+  "repository": "https://github.com/sysblot/sysblot-projects-manager.git",
+  "author": "Silent Chroma <silentchroma@gmail.com>",
+  "license": "MIT"
+}
